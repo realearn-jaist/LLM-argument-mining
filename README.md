@@ -4,8 +4,6 @@
 
 **Contacts:** racharak [at] jaist [dot] ac [dot] jp and nitit.nga [at] student [dot] mahidol [dot] edu
 
-**Disclaimer:** This repository contains executable source codes supporting our submission to AAMAS 2024 (Demo Track). 
-
 ## Demo Video on Youtube
 
 **Link:** https://youtu.be/a2rdtMQ9jsY
